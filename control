@@ -1,0 +1,12 @@
+Package: com.pixelomer.janetminesweeper
+Name: Janet Minesweeper
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Minesweeper powered by Janet
+  This tweak makes it easy to create minesweeper fields on the r/jailbreak discord server. Simply hold the send button and press "Yes". It abuses the "!userconf" command in Janet.
+	.
+	Requires iOS 7.0 or later.
+Maintainer: pixelomer
+Author: pixelomer
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
